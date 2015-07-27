@@ -1,0 +1,13 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+ty.netease.com	FALSE	/	FALSE	1440565531	yeaS_2132_auth	5121aiuRXCE2Kp9Qliz4ttIzjhG5a%2FjYXI%2Blf8IpmoGq58hqqI%2FKtWBPY2iKU5NiSPj3Ot9eL0asiaU9PvnQupIIOaU
+ty.netease.com	FALSE	/	FALSE	1438059931	yeaS_2132_lastact	1437973531%09forum.php%09viewthread
+ty.netease.com	FALSE	/	FALSE	1440565531	yeaS_2132_lastvisit	1437969931
+ty.netease.com	FALSE	/	FALSE	1440565531	yeaS_2132_saltkey	QHm899tG
+ty.netease.com	FALSE	/	FALSE	1438059931	yeaS_2132_sid	g9jWGk
+ty.netease.com	FALSE	/	FALSE		yeaS_2132_st_p	227511%7C1437973531%7C73b01b2ab4dbd70977eeb6b8fc2f5eb0
+ty.netease.com	FALSE	/	FALSE	1469509531	yeaS_2132_ulastactivity	de0ebiLXTJmYrDLou6KBce6%2FiVaqWI23d6Xfoa5DDKFdOwSxmPWQ
+ty.netease.com	FALSE	/	FALSE		yeaS_2132_viewid	tid_232539
+ty.netease.com	FALSE	/	FALSE	1440565531	yeaS_2132_visitedfid	5
